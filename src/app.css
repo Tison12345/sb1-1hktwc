@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: #22c55e;
+  color: white;
+}
+
+.app-bg {
+  background-color: #171717;
+}
+
+.card {
+  background-color: #262626;
+  border-radius: 8;
+  margin: 8;
+  padding: 16;
+}
+
+.text-primary {
+  color: #22c55e;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-gray {
+  color: #a3a3a3;
+}
